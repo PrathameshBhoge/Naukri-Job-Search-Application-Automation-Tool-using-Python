@@ -1,0 +1,40 @@
+2026-10-26 21:02:10,125 INFO Session expired, logging in
+2026-10-26 21:02:18,182 ERROR Refresh failed: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+Traceback (most recent call last):
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 107, in main
+    login(page)
+    ~~~~~^^^^^^
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 67, in login
+    raise RuntimeError("Login did not complete (wrong credentials, OTP or captcha?). "
+                       "Run once with HEADLESS=0 and finish it manually.")
+RuntimeError: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+2026-10-26 21:06:28,117 INFO Session expired, logging in
+2026-10-26 21:06:38,765 ERROR Refresh failed: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+Traceback (most recent call last):
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 107, in main
+    login(page)
+    ~~~~~^^^^^^
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 67, in login
+    raise RuntimeError("Login did not complete (wrong credentials, OTP or captcha?). "
+                       "Run once with HEADLESS=0 and finish it manually.")
+RuntimeError: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+2026-10-26 21:09:20,669 INFO Session expired, logging in
+2026-10-26 21:09:30,926 ERROR Refresh failed: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+Traceback (most recent call last):
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 107, in main
+    login(page)
+    ~~~~~^^^^^^
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 67, in login
+    raise RuntimeError("Login did not complete (wrong credentials, OTP or captcha?). "
+                       "Run once with HEADLESS=0 and finish it manually.")
+RuntimeError: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+2026-10-26 21:11:29,702 INFO Session expired, logging in
+2026-10-26 21:11:40,940 ERROR Refresh failed: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
+Traceback (most recent call last):
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 107, in main
+    login(page)
+    ~~~~~^^^^^^
+  File "C:\Users\prath\Documents\Naukri\naukri_refresh.py", line 67, in login
+    raise RuntimeError("Login did not complete (wrong credentials, OTP or captcha?). "
+                       "Run once with HEADLESS=0 and finish it manually.")
+RuntimeError: Login did not complete (wrong credentials, OTP or captcha?). Run once with HEADLESS=0 and finish it manually.
